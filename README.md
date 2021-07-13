@@ -2,7 +2,7 @@
 
 
 
-I'm Abdellah Elmrabet and I go by `Pekenbower` online in Gaming World. I am a Full-stack developer 
+I'm Abdellah Elmrabet and I go by `Pekenbower`  in Gaming World. I am a Full-stack developer 
 
 I am a Writer in my [Blog](https://elmrabetblog.netlify.app/) and im A gamer you Can fiend here my profile [Steam](https://steamcommunity.com/profiles/76561198948229380/). if you are interested more about me i have a [Website](https://abdellahelmrabet.com).
 
