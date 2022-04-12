@@ -16,7 +16,6 @@ I am also a writer in my [Blog](https://elmrabetblog.netlify.app/).
 [![SoundCloud](icons/soundcloud.png)](https://soundcloud.com/abdellah-elmrabet)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/elmrabet_abde/)
 [![WebSite](icons/web.png)](https://abdellahelmrabet.com/)
-[![Whatsapp](icons/whatsapp.png](https://wa.me/212637983246)
 
 **Currently working with:**
 
