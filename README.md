@@ -17,8 +17,12 @@ For life to go on for me it's time to share all I've learned. Especially since I
 [![Web Badge](https://img.shields.io/badge/-www.abdellahelmrabet.com-important?style=flat-square&logo=appveyor&logoColor=white&link=https://www.abdellahelrmabet.com)](https://abdellahelmrabet.com)
 
 
-Tech Stacke [Blog](https://elmrabetblog.netlify.app/).
----
+# Languages/Frameworks ✌️
+<a href="https://nodejs.org/" title="Nodejs"><img src="icons/nodejs.png">
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://www.javascript.com/" title="JavaScript"><img src="icons/javascript.png" /></a>
+
+# Languages/Frameworks ✌️
 
 **Social Media:**
 
@@ -42,15 +46,14 @@ Tech Stacke [Blog](https://elmrabetblog.netlify.app/).
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 <a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
 <a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="https://nodejs.org/" title="Nodejs"><img src="icons/nodejs.png">
+
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 
 
