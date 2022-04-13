@@ -5,6 +5,10 @@ In the virtual world they call me `Pekenbower`😛.
 I love programming in all its fields .
 And you can say that I love everything related to computer science .
 This year I started with the famous school [`1337`](https://1337.ma/fr/). 
+During the past many years I learned many things . And a lot of concepts In the world of programming and computer science
+I watched thousands of videos, read thousands of books and articles . 
+Over the past years I have been learning and I am passionate about what I am learning .
+
 
 
 
