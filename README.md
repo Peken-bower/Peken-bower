@@ -8,6 +8,8 @@ This year I started with the famous school [`1337`](https://1337.ma/fr/).
 During the past many years I learned many things . And a lot of concepts In the world of programming and computer science
 I watched thousands of videos, read thousands of books and articles . 
 Over the past years I have been learning and I am passionate about what I am learning .
+For life to go on for me it's time to share all I've learned. Especially since I was a [good reader](https://www.goodreads.com/elmrabetabdellah) it's time to become a [writer](https://www.abdellahelmrabet.com) too.
+
 
 
 
