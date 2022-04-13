@@ -13,11 +13,8 @@ For life to go on for me it's time to share all I've learned. Especially since I
 [![Facebook Badge](https://img.shields.io/badge/-Abdellah%20Elmrabet-informational?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Elmrabet0)](https://www.facebook.com/Elmrabet0/)
 [![Instagram Badge](https://img.shields.io/badge/-Peken_Bower-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/Peken_Bower/)](https://instagram.com/Peken_Bower)
 [![Gmail Badge](https://img.shields.io/badge/-mail@abdellahelmrabet.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@abdellahelmrabet.com)](mailto:mail@abdellahelmrabet.com)
-[![Discord Badge](https://img.shields.io/badge/-mail@abdellahelmrabet.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@abdellahelmrabet.com)](mailto:mail@abdellahelmrabet.com)
-[![Telegram Badge](https://img.shields.io/badge/-mail@abdellahelmrabet.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@abdellahelmrabet.com)](mailto:mail@abdellahelmrabet.com)
-[![Twitter Badge](https://img.shields.io/badge/-Elmrabet_Abde-informational?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Elmrabet_Abde)
-[![Gmail Badge](https://img.shields.io/badge/-mail@abdellahelmrabet.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@abdellahelmrabet.com)](mailto:mail@abdellahelmrabet.com)
-[![Web Badge](https://img.shields.io/badge/-mail@abdellahelmrabet.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@abdellahelmrabet.com)](mailto:mail@abdellahelmrabet.com)
+[![Twitter Badge](https://img.shields.io/badge/-Elmrabet_Abde-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Elmrabet_Abde)](https://twitter.com/Elmrabet_Abde)
+[![Web Badge](https://img.shields.io/badge/-www.abdellahelmrabet.com-blue?style=flat-square&logo=appveyor&logoColor=white&link=https://www.abdellahelrmabet.com)](https://abdellahelmrabet.com)
 
 
 Tech Stacke [Blog](https://elmrabetblog.netlify.app/).
