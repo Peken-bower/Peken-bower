@@ -1,6 +1,4 @@
 # About Me ✌️ :
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 Hello This is `Abdellah Elmrabet` Welcome To My Profile ❤️ . 
 In the virtual world they call me `Pekenbower`😛. 
 I love programming in all its fields .
@@ -28,3 +26,5 @@ For life to go on for me it's time to share all I've learned. Especially since I
   <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
 </p>
 <br>
+
+
