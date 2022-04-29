@@ -1,5 +1,6 @@
 # About Me ✌️ :
-
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 Hello This is `Abdellah Elmrabet` Welcome To My Profile ❤️ . 
 In the virtual world they call me `Pekenbower`😛. 
 I love programming in all its fields .
